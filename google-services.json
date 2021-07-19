@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096510923723",
+    "project_id": "phoneloves-21e09",
+    "storage_bucket": "phoneloves-21e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096510923723:android:c19d14c9173219bb14cc4e",
+        "android_client_info": {
+          "package_name": "com.example.phoneloves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096510923723-h8m9blgn62it2ep8ms08hkbarth9f9d6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoneloves",
+            "certificate_hash": "484f50b096ef56c768146d9901eb2fc04ebeea47"
+          }
+        },
+        {
+          "client_id": "1096510923723-lugj2ho05ceuhav19shtd4ov7eor6c3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqnDcmF6JwUE4X6_xMlDeXymx6k6uOBHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096510923723-lugj2ho05ceuhav19shtd4ov7eor6c3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
